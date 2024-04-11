@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T08:26:29.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ymO_xLhQdAm-3ffFvreT" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T08:26:39.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fHpb2ZmJAxGCaBodQCc-" version="24.2.3" type="github">
   <diagram name="Strona-1" id="ygBUvrTi3dbgerGrj1ff">
     <mxGraphModel dx="1050" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
         </mxCell>
         <mxCell id="FjufyM6I4lk7l89lF6QR-10" value="Zawiera" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="FjufyM6I4lk7l89lF6QR-9">
           <mxGeometry x="-0.2083" relative="1" as="geometry">
-            <mxPoint x="15" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FjufyM6I4lk7l89lF6QR-2" value="Zamówienie" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
