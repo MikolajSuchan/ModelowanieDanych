@@ -1,1 +1,1 @@
-# Komputer przypomina starotestamentowego Boga: wiele zasad i brak litości.
+# KModelowanie danych przypomina starotestamentowego Boga: wiele zasad i brak litości.
